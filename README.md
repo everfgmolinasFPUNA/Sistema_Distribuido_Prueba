@@ -6,6 +6,6 @@
 
 ### Horario de clases
 
-| Lunes | Martes | Miércoles | Jueves | Viernes | Sábado |
-|-|-|-|-|-|-|-|
-|17:00-20:00|-|-|-|-|10:45-13:00|
+| Lunes         | Martes | Miércoles | Jueves | Viernes | Sábado        |
+|---------------|--------|-----------|--------|---------|---------------|
+| 17:00 - 20:00 |        |           |        |         | 10:45 - 13:00 |
